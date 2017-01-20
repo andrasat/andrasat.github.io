@@ -1,0 +1,61 @@
+body {
+    background: rgba(244, 218, 179, 0.3);
+    font-family: 'Arimo', sans-serif;
+}
+
+
+/* Top Navigation Bar */
+
+.top-nav {
+    box-sizing: border-box;
+    background: #fff;
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    float: right;
+    height: auto;
+    width: 100%;
+}
+
+.top-nav li {
+    position: relative;
+    left: -40;
+    top: -7;
+    display: inline;
+    float: left;
+    padding: 1em 0.5em;
+    margin: 0 1em;
+}
+
+.top-nav a {
+    text-decoration: none;
+}
+
+
+/* Section */
+
+section {
+    position: relative;
+    top: 5em;
+}
+
+article {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 1em;
+}
+
+article #story-01 {
+    border-bottom: solid 0.1em rgba(0, 0, 0, 0.2);
+    padding: 0.25em;
+}
+
+p {
+    font-family: 'Cairo', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1.5em;
+}
+
+p a {
+    text-decoration: none;
+}
