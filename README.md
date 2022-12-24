@@ -1,7 +1,10 @@
 # Personal Git Site
 
 ## About this Site :
-Website ini merupakan website yang ingin saya buat untuk menceritakan perjalanan saya dari nol menuju _experienced_ web developer. Saya juga ingin menempatkan beberapa hasil coding yang saya buat disini sebagai portfolio pribadi dan melihat sudah sampai mana saya belajar.
+I guess you could say that this is my first website that I tried to make, when I'm learning how to codes the first time. At the time I learned on how to write using HTML and CSS only.
+
+## About Me :
+I'm a Biology Major Graduate, right now I have around 5+ yoe developing web apps, mainly using JS/TS with libs/frameworks like React, NodeJS, GraphQL, ExpressJS, NestJS, NextJS, working with databases like PostgresQL, MongoDB, MySQL. Currently I'm refactoring TS microservices into Golang while optimizing logics, in my current main job.
 
 ## Used Tags & Syntaxes :
 
@@ -18,10 +21,3 @@ Website ini merupakan website yang ingin saya buat untuk menceritakan perjalanan
 - `border-radius`
 - `position`
 - etc
-
-## About Me :
-Saya adalah seorang lulusan Biologi yang tertarik dengan teknologi dan pengetahuan yang sangat cepat berkembang di jaman sekarang. Saat ini saya sedang menempuh perjalanan baru untuk menjadi seorang developer handal tanpa melupakan ilmu yang telah saya dapatkan sebelumnya. Saya menyukai traveling dan fotografi.
-
-
-## Future Plans :
-Saya ingin membuat design layout website sebelum dimasukkan konten kedalamnya.
