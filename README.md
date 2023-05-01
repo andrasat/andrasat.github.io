@@ -1,27 +1,36 @@
-# Personal Git Site
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## About this Site :
-Website ini merupakan website yang ingin saya buat untuk menceritakan perjalanan saya dari nol menuju _experienced_ web developer. Saya juga ingin menempatkan beberapa hasil coding yang saya buat disini sebagai portfolio pribadi dan melihat sudah sampai mana saya belajar.
+## Getting Started
 
-## Used Tags & Syntaxes :
+First, run the development server:
 
-### HTML
-- `<div>`
-- `<p>`
-- `<h#>`
-- `<img>`
-- etc
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-### CSS
-- `font-family`
-- `background`
-- `border-radius`
-- `position`
-- etc
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## About Me :
-Saya adalah seorang lulusan Biologi yang tertarik dengan teknologi dan pengetahuan yang sangat cepat berkembang di jaman sekarang. Saat ini saya sedang menempuh perjalanan baru untuk menjadi seorang developer handal tanpa melupakan ilmu yang telah saya dapatkan sebelumnya. Saya menyukai traveling dan fotografi.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
 
-## Future Plans :
-Saya ingin membuat design layout website sebelum dimasukkan konten kedalamnya.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
