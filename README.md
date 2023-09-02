@@ -1,4 +1,4 @@
-# Personal Git Site
+# (Was a) Personal Git Site
 
 ## About this Site :
 I guess you could say that this is my first website that I tried to make, when I'm learning how to codes the first time. At the time I learned on how to write using HTML and CSS only.
